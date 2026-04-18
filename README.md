@@ -1,4 +1,4 @@
-# Task Progress
+# Task Progress  
 
 ## Project Description
 The Task Progress contract enables users to track task progress on the Stellar blockchain. It allows associating task IDs with progress values, creating an immutable record of completion status. This provides a transparent way to track task progress that cannot be manipulated. The contract uses minimal storage to keep costs low.
